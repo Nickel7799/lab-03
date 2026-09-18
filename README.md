@@ -9,11 +9,12 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-N/A
+claude
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Nazar Popov`| `npopov`  |
+
+Simply chatted a bit about our implementations
