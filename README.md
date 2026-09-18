@@ -9,7 +9,7 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-claude
+claude - shown in code with comments
 
 ## Verbal Collaboration
 
